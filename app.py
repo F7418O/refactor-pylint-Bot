@@ -6,7 +6,7 @@ class FlyBot():
     """ Clase Bot """
 
     MONGO_URI ='mongodb://localhost'
-    TELEGRAM_TOKEN = '1297174030:AAHL3kJ-spL63Lr4VTAbcu7pZ3SniKdSvuA'
+    TELEGRAM_TOKEN = 'token'
     DATABASE_NAME = "FlyBot"
     @classmethod
     def __init__(cls):

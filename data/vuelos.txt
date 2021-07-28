@@ -1,0 +1,60 @@
+Fortaleza,(FOR),Ceará,Brasil
+La Habana,(HAV),La Habana,Cuba
+Ibiza,(IBZ),Islas Baleares,España
+Basilea,(EAP),Alsacia,Francia
+Winnipeg,(YWG),Manitoba,Canadá
+Medellin,(MDE),Antioquia,Colombia
+Cork,(ORK),Munster,Irlanda
+Basilea,(BYJ),Basilea,Suiza
+Guayaquil,(GYE),Guayas,Ecuador
+Ciudad de Panamá,(PTY),Provincia de Panamá,Panamá
+Marrakech,(RAK),MarrakechSafi,Marruecos
+Borýspil,(KBP),Kiev,Ucrania
+Hillingdon,(LHR),Londres,Inglaterra
+Moscú,(DME),Óblast de Moscú,Rusia
+Lima,(LIM),Callao,Perú
+Varsovia,(WAW),Wlochy,Polonia
+San Pedro Sula,(SAP),Cortés,Honduras
+Punta Arenas,(PUQ),Magallanes,Chile
+Beja,(BYJ),Alentejo,Portugal
+Tokio,(HND),Tokio,Japón
+Houston,(HOU),Texas,Estados Unidos
+Ciudad de México,(MEX),México,México
+Nápoles,(NAP),Campania,Italia
+Ámsterdam,(AMS),Holanda Septentrional,Paises Bajos
+La Habana,(HAV),La Habana,Cuba
+Houston,(HOU),Texas,Estados Unidos
+Winnipeg,(YWG),Manitoba,Canadá
+Concepción,(CCP),Biobío,Chile
+Basilea,(BYJ),Basilea,Suiza
+Lima,(LIM),Callao,Perú
+Casablanca,(CMN),Región de Casablanca-Settat,Marruecos
+Ámsterdam,(AMS),Holanda Septentrional,Paises Bajos
+Borýspil,(KBP),Kiev,Ucrania
+Moscú,(DME),Óblast de Moscú,Rusia
+Tababela,(UIO),Pichincha,Ecuador
+San Pedro Saula,(SAP),Cortés,Honduras
+Medellin,(MDE),Antioquia,Colombia
+Tokio,(HND),Tokio,Japón
+Málaga,(AGP),Andalucía,España
+Roma,(FCO),Lacio,Italia
+Punta Arenas,(PUQ),Magallanes,Chile
+Lima,(LIM),Callao,Perú
+Tokio,(HND),Tokio,Japón
+Punta Arenas,(PUQ),Magallanes,Chile
+Basilea,(BYJ),Basilea,Suiza
+Ciudad de Panamá,(PTY),Provincia de Panamá,Panamá
+Málaga,(AGP),Anadlucía,España
+Guayaquil,(GYE),Guayas,Ecuador
+Hubballi,(HBX),Karnataka,India
+Punta Arenas,(PUQ),Magallanes,Chile
+Málaga,(AGP),Anadlucía,España
+Tokio,(HND),Tokio,Japón
+Cuenca,(CUE),Azuay,Ecuador
+Hubballi,(HBX),Karnataka,India
+Cork,(ORK),Munster,Irlanda
+Ciudad de Panamá,(PTY),Provincia de Panamá,Panamá
+San Pedro Saula,(SAP),Cortés,Honduras
+Hubballi,(HBX),Karnataka,India
+Winnipeg,(YWG),Manitoba,Canadá
+Basilea,(EAP),Alsacia,Francia
